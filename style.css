@@ -108,6 +108,9 @@ img {
   html, body {
     font-size: 15px;
   }
+  input {
+    font-size: 1rem;
+  }
 }
 @media only screen and (max-width:1355px) {
   html, body {
